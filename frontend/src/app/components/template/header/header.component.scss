@@ -1,0 +1,19 @@
+.header{
+
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2rem;
+
+  img{
+    max-width: 180px;
+  }
+
+  .title-group a{
+    display: flex;
+    align-items: center;
+
+    i{
+      margin-right: .5rem;
+    }
+  }
+}

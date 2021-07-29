@@ -1,0 +1,22 @@
+{
+  "amostras":[
+    {
+      "id": 1,
+      "numero": 253651,
+      "fabricante":"Empresa 1",
+      "marca":"Marca 1"
+    },
+    {
+      "id": 2,
+      "numero": 253652,
+      "fabricante":"Empresa 2",
+      "marca":"Marca 2"
+    },
+    {
+      "id": 3,
+      "numero": 253653,
+      "fabricante":"Empresa 3",
+      "marca":"Marca 3"
+    }
+  ]
+}
